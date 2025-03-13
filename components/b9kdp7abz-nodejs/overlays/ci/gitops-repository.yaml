@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: b9kdp7abz-nodejs-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/b9kdp7abz-nodejs-gitops
